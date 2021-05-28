@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-module.exports = apple;
+module.exports = apple
 
 function apple() {
-    // TODO
+  // do nothing
 }
